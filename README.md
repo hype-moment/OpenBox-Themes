@@ -12,6 +12,6 @@
 
 ![alt text](https://github.com/hype-moment/OpenBox-Themes/blob/main/imagens/light1.png)
 
-![alt text](https://github.com/hype-moment/OpenBox-Themes/blob/main/imagens/light1.png)
+![alt text](https://github.com/hype-moment/OpenBox-Themes/blob/main/imagens/light2.png)
 
-![alt text](https://github.com/hype-moment/OpenBox-Themes/blob/main/imagens/light1.png)
+![alt text](https://github.com/hype-moment/OpenBox-Themes/blob/main/imagens/light3.png)
